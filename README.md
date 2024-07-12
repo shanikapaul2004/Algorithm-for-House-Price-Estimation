@@ -1,4 +1,4 @@
-# Algorithm-for-House-Price-Estimation
+## Linear Regression House Price Estimation
 
 This repository contains a C program that implements a simple machine learning algorithm to estimate house prices based on historical data. The program uses a one-shot learning approach to deduce the weights of different house attributes, which can then be used to predict prices for new houses.
 
